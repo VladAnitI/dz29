@@ -1,0 +1,22 @@
+
+.TextBlock1,
+.TextBlock2,
+.TextBlock3{
+    border: 1px solid white;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+
+.TextBlock1{
+    background-color:rgb(255, 85, 232);
+}
+
+.TextBlock2{
+    background-color:rgb(85, 229, 255);
+}
+
+.TextBlock3{
+    background-color:rgb(207, 85, 255);
+}
